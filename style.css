@@ -1,0 +1,24 @@
+body {background-color:black; font-family:arial; color:white}
+h1{color:grey;font-family:verdana}
+/* CSS for main container */
+.maindiv{
+    background-color: white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    margin:auto;
+    text-align:center;
+}
+
+/* For highlighting the results */
+.highlight{
+    color:yellow;
+}
+
+/* To provide a little bit styling to button */
+#btn{
+    border-radius: 5px;
+    border-color: grey;
+    padding:3px 10px
+}
